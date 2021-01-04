@@ -1,6 +1,3 @@
-# React-Native-Study
+# React Native Study
 
-
-
-
-[velog](https://velog.io/@everytime79/series/React-Native-Study) or [tistory](https://soosdev.tistory.com/category/Study/React%20Native)
+개인 공부 & 연습 프로젝트
