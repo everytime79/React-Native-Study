@@ -1,3 +1,8 @@
 # React Native Study
 
 개인 공부 & 연습 프로젝트
+
+## 환경
+- MacOS 11.2 beta
+- Visual Studio Code 1.52.1
+- nvm 0.33.11
