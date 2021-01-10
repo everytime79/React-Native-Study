@@ -7,3 +7,4 @@
 - Visual Studio Code 1.52.1
 - nvm 0.33.11
 - node.js 10.15.1
+- npm 6.4.1
