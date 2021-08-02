@@ -1,4 +1,4 @@
-# React Native Study
+# React Native Study - 잠시 보류
 
 개인 공부 & 연습 프로젝트
 
