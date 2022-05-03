@@ -15,10 +15,8 @@ class App extends Component {
     sampleText: 'Hello World'
   }
 
-
   render() {
     return (
-      <View style={styles.background}>
         <Text>{this.state.sampleText}</Text>
       </View>
     )
